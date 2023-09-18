@@ -1,11 +1,17 @@
 # The First Test
 
 git init 
+
 git add .
+
 git branch -M main
+
 git status
+
 git commit -m main 
+
 git push -u origin main
+
 
 https://gitbook.tw/chapters/github/fail-to-push
 
