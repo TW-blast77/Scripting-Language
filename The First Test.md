@@ -1,16 +1,16 @@
 # The First Test
 
-git init 
+git init                    #Create an empty Git repository or reinitialize an existing one
 
-git add .
+git add .                   #Add file contents to the index
 
-git branch -M main
+git branch -M main          #List, create, or delete branches
 
-git status
+git status                  # Show the working tree status
 
-git commit -m main 
+git commit -m main          #Record changes to the repository
 
-git push -u origin main
+git push -u origin main     #Update remote refs along with associated objects
 
 
 https://gitbook.tw/chapters/github/fail-to-push
